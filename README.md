@@ -1,0 +1,2 @@
+# MIBAInventory
+Инвентаризация
