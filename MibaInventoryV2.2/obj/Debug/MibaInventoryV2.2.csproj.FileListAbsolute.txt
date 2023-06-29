@@ -1,0 +1,15 @@
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\bin\Debug\MibaInventoryV2._2.exe.config
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\bin\Debug\MibaInventoryV2._2.exe
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\bin\Debug\MibaInventoryV2._2.pdb
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\obj\Debug\MibaInventoryV2.2.csproj.AssemblyReference.cache
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\obj\Debug\MibaInventoryV2.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\obj\Debug\MibaInventoryV2._2.Properties.Resources.resources
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\obj\Debug\MibaInventoryV2.2.csproj.GenerateResource.cache
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\obj\Debug\MibaInventoryV2.2.csproj.CoreCompileInputs.cache
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\obj\Debug\MibaInventoryV2._2.exe
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\obj\Debug\MibaInventoryV2._2.pdb
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\obj\Debug\MibaInventoryV2._2.Form1.resources
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\obj\Debug\MibaInventoryV2.2.csproj.CopyComplete
+C:\Users\Sich\RiderProjects\MibaInventoryV2.2\MibaInventoryV2.2\obj\Debug\MibaInventoryV2._2.Form2.resources
